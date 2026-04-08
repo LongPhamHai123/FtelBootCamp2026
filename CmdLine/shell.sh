@@ -1,0 +1,1 @@
+gcc main.c cmd_line.c -o cmd_line
