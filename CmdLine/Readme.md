@@ -68,7 +68,7 @@ cmd_line_t cmd_table[] = {
 ```text
 help
 led on
-abc
+hihi
 ```
 
 #### Output
