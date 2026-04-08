@@ -9,10 +9,7 @@
 #ifndef __CMD_LINE_H__
 #define __CMD_LINE_H__
 
-// #ifdef __cplusplus
-// extern "C"
-// {
-// #endif
+
 
 #include <stdint.h>
 
@@ -34,8 +31,6 @@
 
 extern uint8_t cmd_line_parser(cmd_line_t *cmd_table, uint8_t *command);
 
-// #ifdef __cplusplus
-// }
-// #endif
+
 
 #endif //__CMD_LINE_H__

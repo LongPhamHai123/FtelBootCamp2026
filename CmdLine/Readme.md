@@ -55,8 +55,8 @@ cmd_line_t cmd_table[] = {
 - **Chạy demo main (thủ công)**
 
   ```bash
-  gcc cmd_line.c main.c -o main
-  main
+  gcc cmd_line.c main.c -o cmd_line
+  ./cmd_line
   ```
 
 <!-- > Lưu ý: Nhớ cài đặt MSYS2 sử dụng gcc/g++ để build & debug trên VSCode -->
